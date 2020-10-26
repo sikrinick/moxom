@@ -13,6 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/sikrinick/moxom",
     packages=find_packages(),
+    data_files = [("", ["LICENSE.txt"])],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
