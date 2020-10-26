@@ -101,7 +101,6 @@ if __name__ == '__main__':
     moxom = Moxom(routines)
 
     arguments = sys.argv[1:]
-    moxom.execute(" ".join(arguments))
 
     if len(arguments) == 0:
         # interactive mode

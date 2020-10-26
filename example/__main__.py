@@ -47,6 +47,7 @@ if __name__ == '__main__':
     moxom = Moxom(routines, moxom_env=env_file)
 
     arguments = sys.argv[1:]
+
     if len(arguments) == 0:
         # interactive mode
         print("Interactive mode")
