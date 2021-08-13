@@ -1,3 +1,20 @@
+# Editors
 .idea
 *.iml
+
+# Byte-compiled / Optimized
 */__pycache__/*
+
+# Distribution / Packaging
+
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
