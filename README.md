@@ -1,4 +1,6 @@
 # Moxom
+[![PyPI version](https://badge.fury.io/py/moxom.svg)](https://badge.fury.io/py/moxom)
+
 Python library to build simple user-friendly CLI API for your Python scripts.  
 Allows mapping commands to classes, class methods and functions.  
 Supports both `def` and `async def`.  
